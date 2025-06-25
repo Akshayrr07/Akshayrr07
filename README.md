@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-image-link.com" alt="Banner" width="100%">
+  <img src="https://your-banner-image-link.com](https://github.com/Akshayrr07/Akshayrr07/blob/main/Hello%20Everyone.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hey there, I'm Akshay R.R. 🚀</h1>
