@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Crafting+AI+solutions+with+passion...;Engineering+robust+Full+Stack+systems...;Driven+by+curiosity+and+innovation+🚀&animation=blink" alt="Typing SVG" />
 </p>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshayrr04&label=Profile+Views&color=0e75b6&style=flat" alt="akshayrr04" />
