@@ -4,9 +4,8 @@
 
 <h1 align="center">Hey there, I'm Akshay R.R. 🚀</h1>
 <h3 align="center">AI/ML Engineer | Full Stack Developer | Final Year B.Tech (AI & DS)</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+AI-powered+products...;Scaling+Full+Stack+apps...;Living+for+logic+and+tech+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Crafting+AI+solutions+with+passion...;Engineering+robust+Full+Stack+systems...;Driven+by+curiosity+and+innovation+🚀&animation=blink" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +16,9 @@
 
 ### 🧠 About Me
 
-<img align="right" alt="AI Guy" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<p align="center">
+  <img alt="AI Guy" width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
 - 🎓 Final Year B.Tech in **AI & DS**, Jai Shriram Engineering College  
 - 💼 Targeting roles in **Product-Based Companies**  
@@ -40,19 +41,19 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://your-image-link.com/pneumonia.gif" width="200"/>
+      <img src="https://stormystudio.com/wp-content/uploads/2020/08/xray.gif" width="200"/>
       <br>
       <b>Real-Time Pneumonia Detection</b><br>
       CNN | Flask | Web App
     </td>
     <td align="center">
-      <img src="https://your-image-link.com/roadmap.gif" width="200"/>
+      <img src="https://i.pinimg.com/originals/da/83/47/da8347dcb9b4e70c5d01780db65a139b.gif" width="150"/>
       <br>
       <b>Road Extraction - SIH</b><br>
       DL | Image Segmentation
     </td>
     <td align="center">
-      <img src="https://your-image-link.com/formify.gif" width="200"/>
+      <img src="https://cdn.dribbble.com/users/620800/screenshots/3408767/the-form.gif" width="200"/>
       <br>
       <b>Formify App</b><br>
       Android | Firebase Auth
@@ -65,8 +66,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayrr04&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayrr04&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshayrr07&show_icons=true&theme=radical" width="400"/>
+
 </p>
 
 ---
@@ -74,7 +75,7 @@
 ### 🧩 LeetCode Performance
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/akshayrr04?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Akshay_RR?theme=dark&font=Roboto&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -101,7 +102,13 @@
 
 ### 💬 Quote I Live By
 
-> “Discipline equals freedom. Code. Break. Build. Repeat.” — Akshay R.R.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=%E2%80%9CDiscipline+equals+freedom.+Code.+Break.+Build.+Repeat.%E2%80%9D" alt="Quote Typing SVG" />
+</p>
+
+<p align="center">
+  <b>— Akshay R.R.</b>
+</p>
 
 ---
 
