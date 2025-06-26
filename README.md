@@ -5,7 +5,13 @@
 <h1 align="center">Hey there, I'm Akshay R.R. 🚀</h1>
 <h3 align="center">AI/ML Engineer | Full Stack Developer | Final Year B.Tech (AI & DS)</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Building+intelligent+apps+with+AI+and+code.;Exploring+new+tech+every+day.;Turning+ideas+into+impactful+projects+🚀" alt="Typing SVG" />
+  <p align="center">
+    <b>Building intelligent apps with AI and code.<br>
+    Exploring new tech every day.<br>
+    Turning ideas into impactful projects 🚀</b>
+    <br><br>
+    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding Animation" width="120"/>
+  </p>
 </p>
 </p>
 </p>
