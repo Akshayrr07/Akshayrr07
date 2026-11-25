@@ -1,4 +1,4 @@
-# Hi, I'm Akshay Raja
+# Hi, I'm Akshay RR
 
 **Associate Product Engineer Trainee at [Growmax](https://github.com/growmax)** · Full-stack developer and AI engineer
 
@@ -43,8 +43,8 @@ An OCR and NLP pipeline for analysing legal documents, with a backend API and a 
 
 | Area | Tools |
 | :--- | :--- |
-| Frontend | React, Next.js, Vite, ShadCN, Expo |
-| Backend | NestJS, GraphQL, PostgreSQL, Node.js, Flask |
+| Frontend and mobile | React, Next.js, Vite, ShadCN, React Native, Expo |
+| Backend | NestJS, GraphQL, PostgreSQL, Prisma, Redis, SQLite, Node.js, Flask |
 | AI | MCP, RAG, LLMs, PyTorch, computer vision, NLP, classical ML |
 | Languages | TypeScript, JavaScript, Python, Java, Kotlin |
 | Tools | Git, Docker, Linux, Claude Code |
@@ -59,7 +59,7 @@ An OCR and NLP pipeline for analysing legal documents, with a backend API and a 
 | Student Intern | Naan Mudhalvan | Jun to Nov 2024 |
 | Full-Stack Web Developer Intern | Alutursity | Aug 2023 |
 
-**Education:** B.Tech in Artificial Intelligence and Data Science, Jai Shriram Engineering College (graduated 2026)
+**Education:** B.Tech in Artificial Intelligence (AI and Data Science), Jai Shriram Engineering College, Nov 2022 to May 2026
 
 ## Problem solving
 
