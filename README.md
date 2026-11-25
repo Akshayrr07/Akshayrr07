@@ -1,143 +1,54 @@
-<!-- 📌 Custom Banner -->
-<p align="center">
-  <img src="Hello Everyone.jpg" alt="Akshay R.R. – AI Engineer" width="100%" />
-</p>
+# Hi, I'm Akshay R.R.
 
-<h1 align="center">Hi, I'm Akshay R.R. 🚀</h1>
-<h3 align="center">AI/ML Engineer | Full Stack Developer | Final Year B.Tech (AI & DS)</h3>
+**AI/ML Engineer · Full-Stack Developer** · Final-year B.Tech (AI & Data Science), Jai Shriram Engineering College, Tirupur, India
 
-<p align="center">
-  <b>Turning code into intelligent systems.<br>
-  Exploring tech. Building projects. Leveling up daily ⚡</b>
-</p>
+I build deployed machine-learning systems, from model training through to a working web app. I'm looking for AI/ML and software engineering roles at product-based companies.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshayrr04&label=Profile+Views&color=0e75b6&style=flat" alt="akshayrr04" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshay--rr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-rr)
+[![Email](https://img.shields.io/badge/Email-akshayrr04%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akshayrr04@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-akshayrr-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/akshayrr)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Akshay__RR-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akshay_RR/)
 
----
+## Featured projects
 
-## 🧠 About Me
+### [Satellite Road Extraction](https://github.com/Akshayrr07/Road_extraction) · [Live demo](https://road-extraction-livid.vercel.app/)
+Semantic segmentation of satellite imagery to extract road networks. U-Net with a ResNet34 encoder in PyTorch, served through a Flask REST API with a React frontend, supporting TIFF input. Deployed on Vercel (frontend) and Render (backend). Built for Smart India Hackathon, where our team was a finalist.
 
-<p align="center">
-  <img alt="AI Dev" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
+`PyTorch` `U-Net` `Flask` `React` `Vercel` `Render`
 
-- 🎓 Final Year, B.Tech – AI & DS @ Jai Shriram Engineering College  
-- 💼 Targeting roles in **Product-Based Companies**
-- 🧠 Passionate about **AI/ML**, **MERN Stack**, and **Ethical Hacking**
-- 🧩 75+ Projects Challenge | 10K Rank Goal on LeetCode
-- 🎯 DSA Streaker | Hackathon Host | Project Mentor
+### [Pneumonia Detection from Chest X-rays](https://github.com/Akshayrr07/Pnuemonia_Detection)
+An end-to-end pipeline that goes beyond a single training notebook: dataset construction from multiple sources, duplicate removal and label normalisation, leakage-safe train/validation/test splits, several CNN approaches, and hierarchical classification. The model is hosted on Hugging Face and the app runs on a cloud frontend and backend. Intended for research use, not clinical diagnosis.
 
----
+`PyTorch` `CNN` `Computer Vision` `Hugging Face` `Flask`
 
-## 🛠 Tech Stack
+### [Formify](https://github.com/Akshayrr07/Formify)
+An Android app built with Kotlin and Firebase authentication.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,react,flask,tensorflow,git,linux,firebase,docker,vscode" />
-</p>
+`Kotlin` `Android` `Firebase`
 
----
+## Tech stack
 
-## 🌟 Project Spotlight
+![Tech stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,java,kotlin,javascript,nodejs,react,firebase,docker,git,linux,vscode)
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Akshayrr07/Pneumonia-Detection" target="_blank">
-        <img src="https://your-local-path/pneumonia.png" width="200" /><br>
-        <b>Real-Time Pneumonia Detection</b><br>
-        CNN | Flask | Web App
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Akshayrr07/SIH-RoadExtraction" target="_blank">
-        <img src="https://your-local-path/road.png" width="200" /><br>
-        <b>Road Extraction - SIH</b><br>
-        DL | Image Segmentation
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Akshayrr07/Formify" target="_blank">
-        <img src="https://your-local-path/formify.png" width="200" /><br>
-        <b>Formify App</b><br>
-        Android | Firebase Auth
-      </a>
-    </td>
-  </tr>
-</table>
+| Area | Tools |
+| :--- | :--- |
+| Machine learning | PyTorch, TensorFlow, CNNs, image segmentation, NLP |
+| Backend | Python, Flask, Node.js, REST APIs |
+| Frontend | React, JavaScript, HTML/CSS |
+| Mobile | Kotlin, Android, Firebase |
+| Languages for DSA | Python, Java |
+| Tools | Git, Linux, Docker, VS Code |
 
----
+## Problem solving
 
-## 📊 GitHub Stats
+I practise data structures and algorithms regularly. Solutions are in [DSA-Learning](https://github.com/Akshayrr07/DSA-Learning) and [LeetCode](https://github.com/Akshayrr07/LeetCode), and my profile is on [LeetCode](https://leetcode.com/u/Akshay_RR/).
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayrr07&show_icons=true&theme=radical" width="400"/>
-</p>
+## Currently working on
 
----
+- Improving documentation, tests and demos across my main projects
+- Deepening my knowledge of AI system design
+- Building a personal portfolio site
 
-## 💻 LeetCode Profile
+## Let's connect
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Akshay_RR?theme=dark&font=Roboto&ext=contest" />
-</p>
-
----
-
-### 📊 Data Science Presence
-
-<p align="center">
-  <a href="https://www.kaggle.com/akshayrr" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🎯 Goals
-
-- ✅ 75+ Project GitHub Challenge  
-- 🏁 10K Rank Goal on LeetCode  
-- 💡 Building Personal Blog (Next.js)  
-- 🎓 Mastering AI System Design
-
----
-
-## 🏆 Achievements
-
-- 🥇 Finalist – Smart India Hackathon  
-- 📈 40+ Day Streak on LeetCode  
-- 🧑‍🏫 Mentored juniors in AI & Full Stack  
-- 🛠 Built 100+ Mini Projects & Demos
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:akshayrr04@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/akshayrr07"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/akshayrr04"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox&logoColor=white"/></a>
-</p>
-
----
-
-## 💬 Quote I Live By
-
-<p align="center">
-  <img src="https://your-local-path/discipline-quote.png" width="600" />
-</p>
-
-<p align="center">
-  <b>— Akshay R.R.</b>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="200"/>
-</p>
-
-<p align="center"><b>Thanks for stopping by 🚀</b></p>
+I'm happy to talk about ML projects, internships, referrals and open-source collaboration. The best way to reach me is [LinkedIn](https://linkedin.com/in/akshay-rr) or [email](mailto:akshayrr04@gmail.com).
