@@ -16,7 +16,7 @@ Semantic segmentation of satellite imagery to extract road networks. U-Net with 
 
 `PyTorch` `U-Net` `Flask` `React` `Vercel` `Render`
 
-### [Pneumonia Detection from Chest X-rays](https://github.com/Akshayrr07/Pnuemonia_Detection)
+### [Pneumonia Detection from Chest X-rays](https://github.com/Akshayrr07/pneumonia-detection)
 An end-to-end pipeline that goes beyond a single training notebook: dataset construction from multiple sources, duplicate removal and label normalisation, leakage-safe train/validation/test splits, several CNN approaches, and hierarchical classification. The model is hosted on Hugging Face and the app runs on a cloud frontend and backend. Intended for research use, not clinical diagnosis.
 
 `PyTorch` `CNN` `Computer Vision` `Hugging Face` `Flask`
