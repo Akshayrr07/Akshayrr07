@@ -1,6 +1,6 @@
 # Hi, I'm Akshay Raja
 
-**Associate Product Engineer Trainee at Growmax** · Full-stack developer and AI engineer
+**Associate Product Engineer Trainee at [Growmax](https://github.com/growmax)** · Full-stack developer and AI engineer
 
 I work on a multi-tenant B2B commerce platform at Growmax, mostly in the NestJS GraphQL API and the data layer, and I build MCP integrations that let Claude search and create quotes and orders. Outside work I build computer-vision projects. I'm based in Tamil Nadu, India, and open to conversations about full-stack, AI engineering and product roles.
 
@@ -59,7 +59,7 @@ An OCR and NLP pipeline for analysing legal documents, with a backend API and a 
 | Student Intern | Naan Mudhalvan | Jun to Nov 2024 |
 | Full-Stack Web Developer Intern | Alutursity | Aug 2023 |
 
-**Education:** B.Tech in Artificial Intelligence and Data Science, Jai Shriram Engineering College
+**Education:** B.Tech in Artificial Intelligence and Data Science, Jai Shriram Engineering College (graduated 2026)
 
 ## Problem solving
 
