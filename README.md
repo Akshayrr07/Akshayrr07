@@ -26,6 +26,14 @@ An Android app built with Kotlin and Firebase authentication.
 
 `Kotlin` `Android` `Firebase`
 
+## Highlights
+
+- **Smart India Hackathon finalist** for the satellite road extraction project
+- **75+ Projects Challenge:** building 75+ projects on GitHub (ongoing)
+- **100+ mini projects and demos** built while learning
+- **Hackathon host** and **project mentor:** mentored juniors in AI and full-stack development
+- **LeetCode:** working toward a top-10K rank
+
 ## Tech stack
 
 ![Tech stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,java,kotlin,javascript,nodejs,react,firebase,docker,git,linux,vscode)
